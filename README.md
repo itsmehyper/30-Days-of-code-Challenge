@@ -1,2 +1,2 @@
-# 30-Days-of-code-Challenge-in-Java
-**Be Consistent**, Become a more confident Java coder in just 30 days.
+## 30-Days-of-code-Challenge
+**Be Consistent**, Level up your coding skills in 30 days!
