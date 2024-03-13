@@ -17,4 +17,3 @@ int main() {
     printf("%d\n", isLeapYear(2019)); // return 0 means false
     printf("%d\n", isLeapYear(2016)); // return 1 means true
 }
-
