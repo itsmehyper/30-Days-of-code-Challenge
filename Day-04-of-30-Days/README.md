@@ -1,5 +1,5 @@
 # **Problem 04**
-## _Day 01: Palindrome Characters_
+## _Day 04: Palindrome Characters_
 
 > ![!](PalindromeCharacters.png)
 ---
