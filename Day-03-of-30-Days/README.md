@@ -1,5 +1,5 @@
 # **Problem 03**
-## _Day 01: Check Leap Year_
+## _Day 03: Check Leap Year_
 
 > ![!](leapAndNonLeapYear.png)
 ---
