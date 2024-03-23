@@ -1,3 +1,4 @@
+// Day 13 of 30 Days 👾
 function calculateVowels(input) {
     let vowelCounts = {};
     const vowels = "aeiou";
@@ -19,6 +20,6 @@ function calculateVowels(input) {
     return vowelCounts;
 }
 
-
+// Examples
 console.log(calculateVowels("Hello World"));
 console.log(calculateVowels("Try"));

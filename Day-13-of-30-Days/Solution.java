@@ -1,3 +1,4 @@
+// Day 13 of 30 Days 👾
 import java.util.*;
 public class Solution {
     public static Map<Character, Integer> calculateVowels(String input) {
@@ -20,6 +21,7 @@ public class Solution {
         return vowelCounts;
     }
 
+    // Examples
     public static void main(String[] args) {
         System.out.println(calculateVowels("Hello World"));
         System.out.println(calculateVowels("Try"));

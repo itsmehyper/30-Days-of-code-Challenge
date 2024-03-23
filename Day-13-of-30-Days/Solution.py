@@ -1,3 +1,4 @@
+# Day 13 of 30 Days 👾
 def calculate_vowels(input_str):
     vowel_counts = {}
     vowels = "aeiou"
@@ -12,5 +13,6 @@ def calculate_vowels(input_str):
 
     return vowel_counts
 
+# Examples
 print(calculate_vowels("Hello World"))
 print(calculate_vowels("Try"))
